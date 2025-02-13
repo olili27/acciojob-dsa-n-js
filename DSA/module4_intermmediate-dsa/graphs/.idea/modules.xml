@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BFS Implementation/BFS Implementation.iml" filepath="$PROJECT_DIR$/BFS Implementation/BFS Implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Count components/Count components.iml" filepath="$PROJECT_DIR$/Count components/Count components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course Schedule 2/Course Schedule 2.iml" filepath="$PROJECT_DIR$/Course Schedule 2/Course Schedule 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DFS Implementation/DFS Implementation.iml" filepath="$PROJECT_DIR$/DFS Implementation/DFS Implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Detect cycle in a directed graph/Detect cycle in a directed graph.iml" filepath="$PROJECT_DIR$/Detect cycle in a directed graph/Detect cycle in a directed graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Detect cycle in an undirected graph/Detect cycle in an undirected graph.iml" filepath="$PROJECT_DIR$/Detect cycle in an undirected graph/Detect cycle in an undirected graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hamilton path/Hamilton path.iml" filepath="$PROJECT_DIR$/Hamilton path/Hamilton path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Network Delay Time/Network Delay Time.iml" filepath="$PROJECT_DIR$/Network Delay Time/Network Delay Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number of Distinct Islands/Number of Distinct Islands.iml" filepath="$PROJECT_DIR$/Number of Distinct Islands/Number of Distinct Islands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number of Enclaves/Number of Enclaves.iml" filepath="$PROJECT_DIR$/Number of Enclaves/Number of Enclaves.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Possible Bipartition/Possible Bipartition.iml" filepath="$PROJECT_DIR$/Possible Bipartition/Possible Bipartition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shortest Path - dijkstra/Shortest Path - dijkstra.iml" filepath="$PROJECT_DIR$/Shortest Path - dijkstra/Shortest Path - dijkstra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smallest Path problem/Smallest Path problem.iml" filepath="$PROJECT_DIR$/Smallest Path problem/Smallest Path problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphs.iml" filepath="$PROJECT_DIR$/graphs.iml" />
+    </modules>
+  </component>
+</project>

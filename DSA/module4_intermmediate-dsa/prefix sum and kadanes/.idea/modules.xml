@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Car pooling/Car pooling.iml" filepath="$PROJECT_DIR$/Car pooling/Car pooling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grcery store2/Grcery store2.iml" filepath="$PROJECT_DIR$/Grcery store2/Grcery store2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Max Sum of Rectangle No Larger Than K/Max Sum of Rectangle No Larger Than K.iml" filepath="$PROJECT_DIR$/Max Sum of Rectangle No Larger Than K/Max Sum of Rectangle No Larger Than K.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum Contiguous Subarray Sum/Maximum Contiguous Subarray Sum.iml" filepath="$PROJECT_DIR$/Maximum Contiguous Subarray Sum/Maximum Contiguous Subarray Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum Sum/Maximum Sum.iml" filepath="$PROJECT_DIR$/Maximum Sum/Maximum Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum Sum Circular Array/Maximum Sum Circular Array.iml" filepath="$PROJECT_DIR$/Maximum Sum Circular Array/Maximum Sum Circular Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Range Sum 2D/Range Sum 2D.iml" filepath="$PROJECT_DIR$/Range Sum 2D/Range Sum 2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Range Sum Query/Range Sum Query.iml" filepath="$PROJECT_DIR$/Range Sum Query/Range Sum Query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XOR Queries of a Subarray/XOR Queries of a Subarray.iml" filepath="$PROJECT_DIR$/XOR Queries of a Subarray/XOR Queries of a Subarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grid game/grid game.iml" filepath="$PROJECT_DIR$/grid game/grid game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/prefix sum and kadanes.iml" filepath="$PROJECT_DIR$/.idea/prefix sum and kadanes.iml" />
+    </modules>
+  </component>
+</project>

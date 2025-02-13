@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Distribution of Candy/Distribution of Candy.iml" filepath="$PROJECT_DIR$/Distribution of Candy/Distribution of Candy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fractional Knapsack/Fractional Knapsack.iml" filepath="$PROJECT_DIR$/Fractional Knapsack/Fractional Knapsack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gas filling station/Gas filling station.iml" filepath="$PROJECT_DIR$/Gas filling station/Gas filling station.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Huffman Decoding/Huffman Decoding.iml" filepath="$PROJECT_DIR$/Huffman Decoding/Huffman Decoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Huffman Encoding/Huffman Encoding.iml" filepath="$PROJECT_DIR$/Huffman Encoding/Huffman Encoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Job Sequencing Problem/Job Sequencing Problem.iml" filepath="$PROJECT_DIR$/Job Sequencing Problem/Job Sequencing Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Largest Permutation/Largest Permutation.iml" filepath="$PROJECT_DIR$/Largest Permutation/Largest Permutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mice To Holes/Mice To Holes.iml" filepath="$PROJECT_DIR$/Mice To Holes/Mice To Holes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Minimum Cost of Ropes/Minimum Cost of Ropes.iml" filepath="$PROJECT_DIR$/Minimum Cost of Ropes/Minimum Cost of Ropes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seat arrangement/Seat arrangement.iml" filepath="$PROJECT_DIR$/Seat arrangement/Seat arrangement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/greedy algorithms.iml" filepath="$PROJECT_DIR$/.idea/greedy algorithms.iml" />
+    </modules>
+  </component>
+</project>

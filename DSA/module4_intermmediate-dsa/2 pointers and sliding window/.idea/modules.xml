@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2 pointers and sliding window.iml" filepath="$PROJECT_DIR$/.idea/2 pointers and sliding window.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum Consecutive Ones 2/Maximum Consecutive Ones 2.iml" filepath="$PROJECT_DIR$/Maximum Consecutive Ones 2/Maximum Consecutive Ones 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum width jump/Maximum width jump.iml" filepath="$PROJECT_DIR$/Maximum width jump/Maximum width jump.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pair in array with difference k/Pair in array with difference k.iml" filepath="$PROJECT_DIR$/Pair in array with difference k/Pair in array with difference k.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subarray Product Less Than K/Subarray Product Less Than K.iml" filepath="$PROJECT_DIR$/Subarray Product Less Than K/Subarray Product Less Than K.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Substring with Concatenation of All Words/Substring with Concatenation of All Words.iml" filepath="$PROJECT_DIR$/Substring with Concatenation of All Words/Substring with Concatenation of All Words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two Sum/Two Sum.iml" filepath="$PROJECT_DIR$/Two Sum/Two Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/four Sum/four Sum.iml" filepath="$PROJECT_DIR$/four Sum/four Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/three Sum/three Sum.iml" filepath="$PROJECT_DIR$/three Sum/three Sum.iml" />
+    </modules>
+  </component>
+</project>

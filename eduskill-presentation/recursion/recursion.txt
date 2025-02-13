@@ -1,0 +1,21 @@
+1. what is recursion?
+
+A method of solving a computational problem where the solution depends on solutions to smaller instances of the same problem.
+
+A method calls itself from within its code
+
+
+2. pros
+
+- bridges the gap btn elegance and complexity hence works well with trees, graphs, json objects etc
+- reduces need for complex loops and auxillary data structures
+- can reduce time complexity easily with memoization
+
+
+3. cons
+
+- slowness due to cpu overhead(call stack/frames)
+- can lead to out of memory errors/stack overflow exceptions
+- can be unnecessarily complex if poorly constructed
+
+

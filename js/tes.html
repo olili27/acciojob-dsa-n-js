@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <label for="">select year</label>
+        <input type="number" name="" min="2020" value="2020" id="yearSelector">
+    </div>
+
+    <script>
+        function cleanSelectorValue(event) {
+            let input = event.target;
+            let value = input.value
+            let yearAsNumber = parseInt(value);
+            console.log(value);
+            console.log(yearAsNumber);
+
+            if(isNaN(yearAsNumber)) {
+                input.value = input.min
+            }
+            
+            console.log(yearAsNumber, input.max, yearAsNumber > input.max);
+            
+            if(yearAsNumber > input.max) {
+                input.value = input.max
+            }
+        }
+
+        let yearSelector = document.getElementById("yearSelector");
+        let max = new Date().getFullYear();
+        yearSelector.max = max
+        
+        yearSelector.oninput = cleanSelectorValue
+
+        yearSelector.onchange = cleanSelectorValue
+    </script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Check whether K-th bit is set or not/Check whether K-th bit is set or not.iml" filepath="$PROJECT_DIR$/Check whether K-th bit is set or not/Check whether K-th bit is set or not.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flipping bits/Flipping bits.iml" filepath="$PROJECT_DIR$/Flipping bits/Flipping bits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GAME OF XOR/GAME OF XOR.iml" filepath="$PROJECT_DIR$/GAME OF XOR/GAME OF XOR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mice To Holes/Mice To Holes.iml" filepath="$PROJECT_DIR$/Mice To Holes/Mice To Holes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number of set bits/Number of set bits.iml" filepath="$PROJECT_DIR$/Number of set bits/Number of set bits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set bit at kth position/Set bit at kth position.iml" filepath="$PROJECT_DIR$/Set bit at kth position/Set bit at kth position.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Single Number/Single Number.iml" filepath="$PROJECT_DIR$/Single Number/Single Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Single Number 3/Single Number 3.iml" filepath="$PROJECT_DIR$/Single Number 3/Single Number 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unique Number in a Triplet Array/Unique Number in a Triplet Array.iml" filepath="$PROJECT_DIR$/Unique Number in a Triplet Array/Unique Number in a Triplet Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bit manipulation.iml" filepath="$PROJECT_DIR$/.idea/bit manipulation.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Alex and Kth largest/Alex and Kth largest.iml" filepath="$PROJECT_DIR$/Alex and Kth largest/Alex and Kth largest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic operations in BST/Basic operations in BST.iml" filepath="$PROJECT_DIR$/Basic operations in BST/Basic operations in BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search Tree Iterator/Binary Search Tree Iterator.iml" filepath="$PROJECT_DIR$/Binary Search Tree Iterator/Binary Search Tree Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Construct BST From Postorder Traversal/Construct BST From Postorder Traversal.iml" filepath="$PROJECT_DIR$/Construct BST From Postorder Traversal/Construct BST From Postorder Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Construct BST From Preorder Traversal/Construct BST From Preorder Traversal.iml" filepath="$PROJECT_DIR$/Construct BST From Preorder Traversal/Construct BST From Preorder Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Construct Bst From Levelorder Traversal/Construct Bst From Levelorder Traversal.iml" filepath="$PROJECT_DIR$/Construct Bst From Levelorder Traversal/Construct Bst From Levelorder Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Convert BST to Greater Tree/Convert BST to Greater Tree.iml" filepath="$PROJECT_DIR$/Convert BST to Greater Tree/Convert BST to Greater Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Delete a node from BST/Delete a node from BST.iml" filepath="$PROJECT_DIR$/Delete a node from BST/Delete a node from BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Insert a node in a BST/Insert a node in a BST.iml" filepath="$PROJECT_DIR$/Insert a node in a BST/Insert a node in a BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCA of Binary Search Tree/LCA of Binary Search Tree.iml" filepath="$PROJECT_DIR$/LCA of Binary Search Tree/LCA of Binary Search Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recover BST/Recover BST.iml" filepath="$PROJECT_DIR$/Recover BST/Recover BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serialize and DeSerialize BST/Serialize and DeSerialize BST.iml" filepath="$PROJECT_DIR$/Serialize and DeSerialize BST/Serialize and DeSerialize BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum of range in BST/Sum of range in BST.iml" filepath="$PROJECT_DIR$/Sum of range in BST/Sum of range in BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Target Sum Pair In Bst/Target Sum Pair In Bst.iml" filepath="$PROJECT_DIR$/Target Sum Pair In Bst/Target Sum Pair In Bst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trim BST/Trim BST.iml" filepath="$PROJECT_DIR$/Trim BST/Trim BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Validate BST/Validate BST.iml" filepath="$PROJECT_DIR$/Validate BST/Validate BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/binary search trees.iml" filepath="$PROJECT_DIR$/.idea/binary search trees.iml" />
+    </modules>
+  </component>
+</project>

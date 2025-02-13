@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LRU cache/LRU cache.iml" filepath="$PROJECT_DIR$/LRU cache/LRU cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find minimum in sorted array/find minimum in sorted array.iml" filepath="$PROJECT_DIR$/find minimum in sorted array/find minimum in sorted array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing.iml" filepath="$PROJECT_DIR$/hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longest subarray with equal frequency/longest subarray with equal frequency.iml" filepath="$PROJECT_DIR$/longest subarray with equal frequency/longest subarray with equal frequency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minimum window substring/minimum window substring.iml" filepath="$PROJECT_DIR$/minimum window substring/minimum window substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbits in a forest/rabbits in a forest.iml" filepath="$PROJECT_DIR$/rabbits in a forest/rabbits in a forest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snapshot array/snapshot array.iml" filepath="$PROJECT_DIR$/snapshot array/snapshot array.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Allocate Minimum Number Of Pages/Allocate Minimum Number Of Pages.iml" filepath="$PROJECT_DIR$/Allocate Minimum Number Of Pages/Allocate Minimum Number Of Pages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capacity To Ship Packages Within B Days/Capacity To Ship Packages Within B Days.iml" filepath="$PROJECT_DIR$/Capacity To Ship Packages Within B Days/Capacity To Ship Packages Within B Days.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diameter of a Binary Tree/Diameter of a Binary Tree.iml" filepath="$PROJECT_DIR$/Diameter of a Binary Tree/Diameter of a Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Minimum Limit of Balls in a Bag/Minimum Limit of Balls in a Bag.iml" filepath="$PROJECT_DIR$/Minimum Limit of Balls in a Bag/Minimum Limit of Balls in a Bag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aggressive cows/aggressive cows.iml" filepath="$PROJECT_DIR$/aggressive cows/aggressive cows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/balanced tree   optimal solution/balanced tree   optimal solution.iml" filepath="$PROJECT_DIR$/balanced tree   optimal solution/balanced tree   optimal solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/binary search.iml" filepath="$PROJECT_DIR$/.idea/binary search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/peak element/peak element.iml" filepath="$PROJECT_DIR$/peak element/peak element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/peak index in a mountain array/peak index in a mountain array.iml" filepath="$PROJECT_DIR$/peak index in a mountain array/peak index in a mountain array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search a 2d array/search a 2d array.iml" filepath="$PROJECT_DIR$/search a 2d array/search a 2d array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search a rotated sorted array/search a rotated sorted array.iml" filepath="$PROJECT_DIR$/search a rotated sorted array/search a rotated sorted array.iml" />
+    </modules>
+  </component>
+</project>

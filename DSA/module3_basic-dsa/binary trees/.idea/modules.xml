@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/All Nodes Distance K in Binary Tree/All Nodes Distance K in Binary Tree.iml" filepath="$PROJECT_DIR$/All Nodes Distance K in Binary Tree/All Nodes Distance K in Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diameter of a Binary Tree/Diameter of a Binary Tree.iml" filepath="$PROJECT_DIR$/Diameter of a Binary Tree/Diameter of a Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Left view of binary tree/Left view of binary tree.iml" filepath="$PROJECT_DIR$/Left view of binary tree/Left view of binary tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lowest Common Ancestor/Lowest Common Ancestor.iml" filepath="$PROJECT_DIR$/Lowest Common Ancestor/Lowest Common Ancestor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum Width of tree/Maximum Width of tree.iml" filepath="$PROJECT_DIR$/Maximum Width of tree/Maximum Width of tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Path to Given Node/Path to Given Node.iml" filepath="$PROJECT_DIR$/Path to Given Node/Path to Given Node.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Right view of Binary tree/Right view of Binary tree.iml" filepath="$PROJECT_DIR$/Right view of Binary tree/Right view of Binary tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Top view of Binary tree/Top view of Binary tree.iml" filepath="$PROJECT_DIR$/Top view of Binary tree/Top view of Binary tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vertical Order Traversal of Binary Tree/Vertical Order Traversal of Binary Tree.iml" filepath="$PROJECT_DIR$/Vertical Order Traversal of Binary Tree/Vertical Order Traversal of Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zig Zag Traversal of Tree/Zig Zag Traversal of Tree.iml" filepath="$PROJECT_DIR$/Zig Zag Traversal of Tree/Zig Zag Traversal of Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/balanced tree   optimal solution/balanced tree   optimal solution.iml" filepath="$PROJECT_DIR$/balanced tree   optimal solution/balanced tree   optimal solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary trees.iml" filepath="$PROJECT_DIR$/binary trees.iml" />
+    </modules>
+  </component>
+</project>

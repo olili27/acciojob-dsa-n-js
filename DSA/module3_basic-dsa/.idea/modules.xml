@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/binary trees/All Nodes Distance K in Binary Tree/All Nodes Distance K in Binary Tree.iml" filepath="$PROJECT_DIR$/binary trees/All Nodes Distance K in Binary Tree/All Nodes Distance K in Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary search/Allocate Minimum Number Of Pages/Allocate Minimum Number Of Pages.iml" filepath="$PROJECT_DIR$/binary search/Allocate Minimum Number Of Pages/Allocate Minimum Number Of Pages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/Array Pairs Divisible By K/Array Pairs Divisible By K.iml" filepath="$PROJECT_DIR$/hashing/Array Pairs Divisible By K/Array Pairs Divisible By K.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stacks/Balanced Brackets/Balanced Brackets.iml" filepath="$PROJECT_DIR$/stacks/Balanced Brackets/Balanced Brackets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stacks/Balanced Expression/Balanced Expression.iml" filepath="$PROJECT_DIR$/stacks/Balanced Expression/Balanced Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary search/Capacity To Ship Packages Within B Days/Capacity To Ship Packages Within B Days.iml" filepath="$PROJECT_DIR$/binary search/Capacity To Ship Packages Within B Days/Capacity To Ship Packages Within B Days.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stacks/Celebrity Problem/Celebrity Problem.iml" filepath="$PROJECT_DIR$/stacks/Celebrity Problem/Celebrity Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary trees/Diameter of a Binary Tree/Diameter of a Binary Tree.iml" filepath="$PROJECT_DIR$/binary trees/Diameter of a Binary Tree/Diameter of a Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stacks/Extra Brackets/Extra Brackets.iml" filepath="$PROJECT_DIR$/stacks/Extra Brackets/Extra Brackets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/LRU cache/LRU cache.iml" filepath="$PROJECT_DIR$/hashing/LRU cache/LRU cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stacks/Largest Histogram Area/Largest Histogram Area.iml" filepath="$PROJECT_DIR$/stacks/Largest Histogram Area/Largest Histogram Area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/Largest Subarray with 0 Sum/Largest Subarray with 0 Sum.iml" filepath="$PROJECT_DIR$/hashing/Largest Subarray with 0 Sum/Largest Subarray with 0 Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary trees/Left view of binary tree/Left view of binary tree.iml" filepath="$PROJECT_DIR$/binary trees/Left view of binary tree/Left view of binary tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary trees/Lowest Common Ancestor/Lowest Common Ancestor.iml" filepath="$PROJECT_DIR$/binary trees/Lowest Common Ancestor/Lowest Common Ancestor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary trees/Maximum Width of tree/Maximum Width of tree.iml" filepath="$PROJECT_DIR$/binary trees/Maximum Width of tree/Maximum Width of tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary search/Minimum Limit of Balls in a Bag/Minimum Limit of Balls in a Bag.iml" filepath="$PROJECT_DIR$/binary search/Minimum Limit of Balls in a Bag/Minimum Limit of Balls in a Bag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stacks/Next Greater Element/Next Greater Element.iml" filepath="$PROJECT_DIR$/stacks/Next Greater Element/Next Greater Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary trees/Path to Given Node/Path to Given Node.iml" filepath="$PROJECT_DIR$/binary trees/Path to Given Node/Path to Given Node.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/Problem With Given Difference/Problem With Given Difference.iml" filepath="$PROJECT_DIR$/hashing/Problem With Given Difference/Problem With Given Difference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary trees/Right view of Binary tree/Right view of Binary tree.iml" filepath="$PROJECT_DIR$/binary trees/Right view of Binary tree/Right view of Binary tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stacks/Smallest Number Following Pattern/Smallest Number Following Pattern.iml" filepath="$PROJECT_DIR$/stacks/Smallest Number Following Pattern/Smallest Number Following Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stacks/Stock Span Problem/Stock Span Problem.iml" filepath="$PROJECT_DIR$/stacks/Stock Span Problem/Stock Span Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/Subarray sum divisible by k/Subarray sum divisible by k.iml" filepath="$PROJECT_DIR$/hashing/Subarray sum divisible by k/Subarray sum divisible by k.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/Subarray sum equals K/Subarray sum equals K.iml" filepath="$PROJECT_DIR$/hashing/Subarray sum equals K/Subarray sum equals K.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/Substring With K Unique characters/Substring With K Unique characters.iml" filepath="$PROJECT_DIR$/hashing/Substring With K Unique characters/Substring With K Unique characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary trees/Top view of Binary tree/Top view of Binary tree.iml" filepath="$PROJECT_DIR$/binary trees/Top view of Binary tree/Top view of Binary tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stacks/Valid Parenthesis String/Valid Parenthesis String.iml" filepath="$PROJECT_DIR$/stacks/Valid Parenthesis String/Valid Parenthesis String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary trees/Vertical Order Traversal of Binary Tree/Vertical Order Traversal of Binary Tree.iml" filepath="$PROJECT_DIR$/binary trees/Vertical Order Traversal of Binary Tree/Vertical Order Traversal of Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary trees/Zig Zag Traversal of Tree/Zig Zag Traversal of Tree.iml" filepath="$PROJECT_DIR$/binary trees/Zig Zag Traversal of Tree/Zig Zag Traversal of Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary search/aggressive cows/aggressive cows.iml" filepath="$PROJECT_DIR$/binary search/aggressive cows/aggressive cows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary trees/balanced tree   optimal solution/balanced tree   optimal solution.iml" filepath="$PROJECT_DIR$/binary trees/balanced tree   optimal solution/balanced tree   optimal solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/find minimum in sorted array/find minimum in sorted array.iml" filepath="$PROJECT_DIR$/hashing/find minimum in sorted array/find minimum in sorted array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/hashing.iml" filepath="$PROJECT_DIR$/hashing/hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/longest subarray with equal frequency/longest subarray with equal frequency.iml" filepath="$PROJECT_DIR$/hashing/longest subarray with equal frequency/longest subarray with equal frequency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/minimum window substring/minimum window substring.iml" filepath="$PROJECT_DIR$/hashing/minimum window substring/minimum window substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module3_basic-dsa.iml" filepath="$PROJECT_DIR$/module3_basic-dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary search/peak element/peak element.iml" filepath="$PROJECT_DIR$/binary search/peak element/peak element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary search/peak index in a mountain array/peak index in a mountain array.iml" filepath="$PROJECT_DIR$/binary search/peak index in a mountain array/peak index in a mountain array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queues/queues.iml" filepath="$PROJECT_DIR$/queues/queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/rabbits in a forest/rabbits in a forest.iml" filepath="$PROJECT_DIR$/hashing/rabbits in a forest/rabbits in a forest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary search/search a 2d array/search a 2d array.iml" filepath="$PROJECT_DIR$/binary search/search a 2d array/search a 2d array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary search/search a rotated sorted array/search a rotated sorted array.iml" filepath="$PROJECT_DIR$/binary search/search a rotated sorted array/search a rotated sorted array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/snapshot array/snapshot array.iml" filepath="$PROJECT_DIR$/hashing/snapshot array/snapshot array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stacks/stacks.iml" filepath="$PROJECT_DIR$/stacks/stacks.iml" />
+    </modules>
+  </component>
+</project>
